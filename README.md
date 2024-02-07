@@ -1,4 +1,4 @@
-# starbucks
+# Starbucks
 
 https://jgxnho-project-starbucks.netlify.app/
 
